@@ -126,7 +126,7 @@ p {
 }
 
 #showcase {
-    background: url("hotellatest.jpg") no-repeat center center/cover;
+    background: url("img/hotellatest.jpg") no-repeat center center/cover;
     height: 600px;
 }
 
@@ -153,7 +153,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url("/hotellastimage.jpg");
+    background: url("img/hotellastimage.jpg");
     min-height: 100%;
 }
 
@@ -203,7 +203,7 @@ p {
 
 #testimonials {
     height: 600px;
-    background: url("hotelimage.jpg") no-repeat center center/cover;
+    background: url("img/hotelimage.jpg") no-repeat center center/cover;
     padding-top: 100px;
 }
 
